@@ -141,4 +141,14 @@ ALTER TABLE data.order
 ADD CONSTRAINT fk_payment_method_for_ordering
 FOREIGN KEY (payment_method_id) REFERENCES data.payment_method (payment_method_id);
 
--- Nie ma jeszcze zrobione relacji wiele do wielu order z order_item
+-- Nowa tabela by osiągnąć relacje wiele do wielu:
+CREATE TABLE data.order_order_item
+(
+    order_order_item_id SERIAL PRIMARY KEY,
+    order_id INT,
+    order_item_id INT,
+    CONSTRAINT fk_order_order_item_order -- order_id from order_order_item to data.order order_id
+        FOREIGN KEY (order_id) REFERENCES data.order (order_id),
+    CONSTRAINT fk_order_order_item_order_item -- order_item_id from order_order_item to data.order_item order_item_id
+        FOREIGN KEY (order_item_id) REFERENCES data.order_item(order_item_id)
+);

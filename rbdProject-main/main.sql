@@ -381,6 +381,9 @@ END;
 $$
 LANGUAGE plpgsql;
 
+SELECT create_order_tuple();
+
+
 -- Trigger wywołujący funkcję create_order_tuple po wstawieniu nowej krotki do tabeli "order"
 CREATE TRIGGER create_order_trigger
 AFTER INSERT ON data."order"
@@ -446,7 +449,7 @@ $$ LANGUAGE plpgsql;
 
 -- Aktualizacja danych osobowych klienta o ID 1
 SELECT update_customer_personal_data(
-    customer_id := 1,
+    customer_id := 1,-- := przypisanie wartosci do zmiennej
     full_name := 'John Doe',
     email := 'johndoe@example.com',
     phone_number := '123456789'

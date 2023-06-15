@@ -1,42 +1,40 @@
-insert into data.description (id, price, name, image , material, width, weigth, height) values (1, 86844.06, 'Monument(1)', 'http://dummyimage.com/195x100.png/ff4444/ffffff', 'Granite', 283.09, 89.95, 143.37);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (2, 59125.27, 'Monument(2)', 'http://dummyimage.com/209x100.png/cc0000/ffffff', 'Stone', 78.85, 97.39, 56.31);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (3, 44339.42, 'Monument(3)', 'http://dummyimage.com/239x100.png/dddddd/000000', 'Granite', 240.98, 42.92, 47.3);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (4, 10986.95, 'Monument(4)', 'http://dummyimage.com/240x100.png/cc0000/ffffff', 'Limestone', 93.81, 142.55, 60.64);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (5, 93800.43, 'Monument(5)', 'http://dummyimage.com/219x100.png/cc0000/ffffff', 'Granite', 89.17, 161.12, 125.53);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (6, 44727.42, 'Monument(6)', 'http://dummyimage.com/160x100.png/5fa2dd/ffffff', 'Sandstone', 134.09, 108.71, 74.75);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (7, 69238.59, 'Monument(7)', 'http://dummyimage.com/201x100.png/ff4444/ffffff', 'Onyx', 241.66, 34.59, 89.94);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (8, 50384.02, 'Monument(8)', 'http://dummyimage.com/236x100.png/cc0000/ffffff', 'Marble', 153.67, 179.13, 95.05);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (9, 30399.89, 'Monument(9)', 'http://dummyimage.com/224x100.png/dddddd/000000', 'Marble', 129.51, 95.0, 92.92);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (10, 16226.34, 'Monument(10)', 'http://dummyimage.com/211x100.png/ff4444/ffffff', 'Marble', 136.75, 149.3, 60.27);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (11, 78468.58, 'Monument(11)', 'http://dummyimage.com/195x100.png/5fa2dd/ffffff', 'Brass', 259.01, 47.33, 89.35);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (12, 73549.89, 'Monument(12)', 'http://dummyimage.com/240x100.png/dddddd/000000', 'Slate', 143.65, 176.67, 101.7);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (13, 8704.01, 'Monument(13)', 'http://dummyimage.com/131x100.png/ff4444/ffffff', 'Bronze', 60.91, 172.3, 118.56);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (14, 76796.27, 'Monumet(14)', 'http://dummyimage.com/231x100.png/ff4444/ffffff', 'Granite', 227.38, 179.38, 46.81);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (15, 47129.91, 'Monument(15)', 'http://dummyimage.com/247x100.png/5fa2dd/ffffff', 'Granite', 282.54, 183.91, 115.34);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (16, 54963.51, 'Monument(16)', 'http://dummyimage.com/138x100.png/cc0000/ffffff', 'Stone', 265.45, 136.29, 68.0);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (17, 17664.46, 'Monument(17)', 'http://dummyimage.com/246x100.png/dddddd/000000', 'Onyx', 205.24, 120.5, 132.97);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (18, 91462.65, 'Monument(18)', 'http://dummyimage.com/154x100.png/5fa2dd/ffffff', 'Marble', 54.7, 141.11, 84.8);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (19, 11196.98, 'Monument(19)', 'http://dummyimage.com/100x100.png/5fa2dd/ffffff', 'Bronze', 204.6, 157.03, 72.53);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (20, 15747.34, 'Monument(20)', 'http://dummyimage.com/192x100.png/dddddd/000000', 'Granite', 259.77, 89.5, 93.95);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (21, 92204.27, 'Monument(21)', 'http://dummyimage.com/191x100.png/cc0000/ffffff', 'Granite', 115.31, 33.78, 67.3);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (22, 69781.58, 'Monument(22)', 'http://dummyimage.com/135x100.png/dddddd/000000', 'Stone', 258.1, 26.16, 138.12);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (23, 82217.89, 'Monument(23)', 'http://dummyimage.com/183x100.png/ff4444/ffffff', 'Granite', 128.1, 198.33, 45.81);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (24, 59800.67, 'Monument(24)', 'http://dummyimage.com/135x100.png/ff4444/ffffff', 'Granite', 60.95, 52.62, 119.69);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (25, 53092.16, 'Monument(25)', 'http://dummyimage.com/223x100.png/ff4444/ffffff', 'Granite', 104.54, 104.64, 68.88);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (26, 4067.71, 'Monument(26)', 'http://dummyimage.com/128x100.png/ff4444/ffffff', 'Stone', 101.95, 47.69, 103.7);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (27, 98518.95, 'Monument(27)', 'http://dummyimage.com/180x100.png/5fa2dd/ffffff', 'Granite', 68.12, 78.42, 79.86);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (28, 22809.79, 'Monument(28)', 'http://dummyimage.com/174x100.png/ff4444/ffffff', 'Granite', 159.2, 126.96, 121.12);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (29, 19658.66, 'Monument(29)', 'http://dummyimage.com/163x100.png/ff4444/ffffff', 'Onyx', 202.5, 143.27, 93.23);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (30, 30170.58, 'Monument(30)', 'http://dummyimage.com/149x100.png/cc0000/ffffff', 'Bronze', 295.43, 26.5, 94.61);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (31, 12170.58, 'Pedestal(1)', 'http://dummyimage.com/149x100.png/cc0000/ffffff', 'Bronze', 78.43, 26.5, 20.61);
+insert into data.description (id, price, name, image , material, width, weight, height) values (1, 86844.06, 'Monument(1)', 'http://dummyimage.com/195x100.png/ff4444/ffffff', 'Granite', 283.09, 89.95, 143.37);
+insert into data.description (id, price, name, image , material, width, weight, height) values (2, 59125.27, 'Monument(2)', 'http://dummyimage.com/209x100.png/cc0000/ffffff', 'Stone', 78.85, 97.39, 56.31);
+insert into data.description (id, price, name, image , material, width, weight, height) values (3, 44339.42, 'Monument(3)', 'http://dummyimage.com/239x100.png/dddddd/000000', 'Granite', 240.98, 42.92, 47.3);
+insert into data.description (id, price, name, image , material, width, weight, height) values (4, 10986.95, 'Monument(4)', 'http://dummyimage.com/240x100.png/cc0000/ffffff', 'Limestone', 93.81, 142.55, 60.64);
+insert into data.description (id, price, name, image , material, width, weight, height) values (5, 93800.43, 'Monument(5)', 'http://dummyimage.com/219x100.png/cc0000/ffffff', 'Granite', 89.17, 161.12, 125.53);
+insert into data.description (id, price, name, image , material, width, weight, height) values (6, 44727.42, 'Monument(6)', 'http://dummyimage.com/160x100.png/5fa2dd/ffffff', 'Sandstone', 134.09, 108.71, 74.75);
+insert into data.description (id, price, name, image , material, width, weight, height) values (7, 69238.59, 'Monument(7)', 'http://dummyimage.com/201x100.png/ff4444/ffffff', 'Onyx', 241.66, 34.59, 89.94);
+insert into data.description (id, price, name, image , material, width, weight, height) values (8, 50384.02, 'Monument(8)', 'http://dummyimage.com/236x100.png/cc0000/ffffff', 'Marble', 153.67, 179.13, 95.05);
+insert into data.description (id, price, name, image , material, width, weight, height) values (9, 30399.89, 'Monument(9)', 'http://dummyimage.com/224x100.png/dddddd/000000', 'Marble', 129.51, 95.0, 92.92);
+insert into data.description (id, price, name, image , material, width, weight, height) values (10, 16226.34, 'Monument(10)', 'http://dummyimage.com/211x100.png/ff4444/ffffff', 'Marble', 136.75, 149.3, 60.27);
+insert into data.description (id, price, name, image , material, width, weight, height) values (11, 78468.58, 'Monument(11)', 'http://dummyimage.com/195x100.png/5fa2dd/ffffff', 'Brass', 259.01, 47.33, 89.35);
+insert into data.description (id, price, name, image , material, width, weight, height) values (12, 73549.89, 'Monument(12)', 'http://dummyimage.com/240x100.png/dddddd/000000', 'Slate', 143.65, 176.67, 101.7);
+insert into data.description (id, price, name, image , material, width, weight, height) values (13, 8704.01, 'Monument(13)', 'http://dummyimage.com/131x100.png/ff4444/ffffff', 'Bronze', 60.91, 172.3, 118.56);
+insert into data.description (id, price, name, image , material, width, weight, height) values (14, 76796.27, 'Monumet(14)', 'http://dummyimage.com/231x100.png/ff4444/ffffff', 'Granite', 227.38, 179.38, 46.81);
+insert into data.description (id, price, name, image , material, width, weight, height) values (15, 47129.91, 'Monument(15)', 'http://dummyimage.com/247x100.png/5fa2dd/ffffff', 'Granite', 282.54, 183.91, 115.34);
+insert into data.description (id, price, name, image , material, width, weight, height) values (16, 54963.51, 'Monument(16)', 'http://dummyimage.com/138x100.png/cc0000/ffffff', 'Stone', 265.45, 136.29, 68.0);
+insert into data.description (id, price, name, image , material, width, weight, height) values (17, 17664.46, 'Monument(17)', 'http://dummyimage.com/246x100.png/dddddd/000000', 'Onyx', 205.24, 120.5, 132.97);
+insert into data.description (id, price, name, image , material, width, weight, height) values (18, 91462.65, 'Monument(18)', 'http://dummyimage.com/154x100.png/5fa2dd/ffffff', 'Marble', 54.7, 141.11, 84.8);
+insert into data.description (id, price, name, image , material, width, weight, height) values (19, 11196.98, 'Monument(19)', 'http://dummyimage.com/100x100.png/5fa2dd/ffffff', 'Bronze', 204.6, 157.03, 72.53);
+insert into data.description (id, price, name, image , material, width, weight, height) values (20, 15747.34, 'Monument(20)', 'http://dummyimage.com/192x100.png/dddddd/000000', 'Granite', 259.77, 89.5, 93.95);
+insert into data.description (id, price, name, image , material, width, weight, height) values (21, 92204.27, 'Monument(21)', 'http://dummyimage.com/191x100.png/cc0000/ffffff', 'Granite', 115.31, 33.78, 67.3);
+insert into data.description (id, price, name, image , material, width, weight, height) values (22, 69781.58, 'Monument(22)', 'http://dummyimage.com/135x100.png/dddddd/000000', 'Stone', 258.1, 26.16, 138.12);
+insert into data.description (id, price, name, image , material, width, weight, height) values (23, 82217.89, 'Monument(23)', 'http://dummyimage.com/183x100.png/ff4444/ffffff', 'Granite', 128.1, 198.33, 45.81);
+insert into data.description (id, price, name, image , material, width, weight, height) values (24, 59800.67, 'Monument(24)', 'http://dummyimage.com/135x100.png/ff4444/ffffff', 'Granite', 60.95, 52.62, 119.69);
+insert into data.description (id, price, name, image , material, width, weight, height) values (25, 53092.16, 'Monument(25)', 'http://dummyimage.com/223x100.png/ff4444/ffffff', 'Granite', 104.54, 104.64, 68.88);
+insert into data.description (id, price, name, image , material, width, weight, height) values (26, 4067.71, 'Monument(26)', 'http://dummyimage.com/128x100.png/ff4444/ffffff', 'Stone', 101.95, 47.69, 103.7);
+insert into data.description (id, price, name, image , material, width, weight, height) values (27, 98518.95, 'Monument(27)', 'http://dummyimage.com/180x100.png/5fa2dd/ffffff', 'Granite', 68.12, 78.42, 79.86);
+insert into data.description (id, price, name, image , material, width, weight, height) values (28, 22809.79, 'Monument(28)', 'http://dummyimage.com/174x100.png/ff4444/ffffff', 'Granite', 159.2, 126.96, 121.12);
+insert into data.description (id, price, name, image , material, width, weight, height) values (29, 19658.66, 'Monument(29)', 'http://dummyimage.com/163x100.png/ff4444/ffffff', 'Onyx', 202.5, 143.27, 93.23);
+insert into data.description (id, price, name, image , material, width, weight, height) values (30, 30170.58, 'Monument(30)', 'http://dummyimage.com/149x100.png/cc0000/ffffff', 'Bronze', 295.43, 26.5, 94.61);
+insert into data.description (id, price, name, image , material, width, weight, height) values (31, 12170.58, 'Pedestal(1)', 'http://dummyimage.com/149x100.png/cc0000/ffffff', 'Bronze', 78.43, 26.5, 20.61);
 
-insert into data.description (id, price, name, image , material, width, weigth, height) values (32, 11170.58, 'Pedestal(2)', 'http://dummyimage.com/149x100.png/cc0000/ffffff', 'Granite', 195.43, 23.5, 15.61);
+insert into data.description (id, price, name, image , material, width, weight, height) values (32, 11170.58, 'Pedestal(2)', 'http://dummyimage.com/149x100.png/cc0000/ffffff', 'Granite', 195.43, 23.5, 15.61);
 
-insert into data.description (id, price, name, image , material, width, weigth, height) values (33, 10170.58, 'Pedestal(3)', 'http://dummyimage.com/149x100.png/cc0000/ffffff', 'Granite', 105.43, 29.5, 19.61);
+insert into data.description (id, price, name, image , material, width, weight, height) values (33, 10170.58, 'Pedestal(3)', 'http://dummyimage.com/149x100.png/cc0000/ffffff', 'Granite', 105.43, 29.5, 19.61);
 
-insert into data.description (id, price, name, image , material, width, weigth, height) values (34, 9170.58, 'Pedestal(4)', 'http://dummyimage.com/149x100.png/cc0000/ffffff', 'Onyx', 100.43, 40.5, 15.61);
-
-
+insert into data.description (id, price, name, image , material, width, weight, height) values (34, 9170.58, 'Pedestal(4)', 'http://dummyimage.com/149x100.png/cc0000/ffffff', 'Onyx', 100.43, 40.5, 15.61);
 
 
 
@@ -52,36 +50,38 @@ insert into data.description (id, price, name, image , material, width, weigth, 
 
 
 
-insert into data.description (id, price, name, image , material, width, weigth, height) values (35, 10948.3, 'Pedestal(5)', 'http://dummyimage.com/242x100.png/cc0000/ffffff', 'Granite', 58.43, 28.85, 3.15);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (36, 6182.32, 'Plinth(1)', 'http://dummyimage.com/184x100.png/ff4444/ffffff', 'Granite', 97.11, 21.07, 10.86);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (37, 3317.74, 'Column(1)', 'http://dummyimage.com/103x100.png/cc0000/ffffff', 'Granite', 55.8, 29.44, 10.79);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (38, 7125.34, 'Column(2)', 'http://dummyimage.com/246x100.png/ff4444/ffffff', 'Granite', 67.87, 20.81, 25.95);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (39, 14477.28, 'Pedestal(6)', 'http://dummyimage.com/172x100.png/cc0000/ffffff', 'Granite', 93.0, 29.84, 29.37);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (40, 6918.96, 'Plinth(2)', 'http://dummyimage.com/194x100.png/ff4444/ffffff', 'Granite', 63.15, 27.61, 13.41);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (41, 14362.95, 'Column(3)', 'http://dummyimage.com/168x100.png/cc0000/ffffff', 'Granite', 69.22, 25.83, 10.82);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (42, 12960.67, 'Pedestal(7)', 'http://dummyimage.com/206x100.png/cc0000/ffffff', 'Granite', 76.73, 22.53, 18.43);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (43, 2899.06, 'Column(4)', 'http://dummyimage.com/129x100.png/ff4444/ffffff', 'Granite', 78.04, 24.14, 34.11);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (44, 8339.49, 'Pedestal(8)', 'http://dummyimage.com/109x100.png/5fa2dd/ffffff', 'Granite', 67.42, 20.86, 22.08);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (45, 10482.2, 'Column(5)', 'http://dummyimage.com/131x100.png/5fa2dd/ffffff', 'Onyx', 64.87, 28.92, 18.21);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (46, 7213.32, 'Plinth(3)', 'http://dummyimage.com/201x100.png/cc0000/ffffff', 'Onyx', 80.36, 27.11, 18.17);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (47, 7618.18, 'Plinth(4)', 'http://dummyimage.com/132x100.png/cc0000/ffffff', 'Onyx', 54.52, 27.26, 30.59);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (48, 14907.13, 'Pedestal(9)', 'http://dummyimage.com/151x100.png/dddddd/000000', 'Onyx', 50.93, 23.99, 9.62);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (49, 15846.44, 'Pedestal(10)', 'http://dummyimage.com/172x100.png/5fa2dd/ffffff', 'Onyx', 60.07, 22.0, 32.19);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (50, 2746.49, 'Pedestal(11)', 'http://dummyimage.com/190x100.png/cc0000/ffffff', 'Granite', 91.0, 23.6, 5.41);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (60, 15938.48, 'Pedestal(12)', 'http://dummyimage.com/109x100.png/dddddd/000000', 'Aluminum', 82.11, 21.82, 26.26);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (61, 12236.88, 'Pedestal(13)', 'http://dummyimage.com/214x100.png/ff4444/ffffff', 'Stone', 55.88, 25.43, 25.11);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (62, 18384.87, 'Pedestal(14)', 'http://dummyimage.com/166x100.png/cc0000/ffffff', 'Onyx', 58.23, 27.42, 12.13);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (63, 9948.67, 'Plinth(5)', 'http://dummyimage.com/241x100.png/cc0000/ffffff', 'Bronze', 73.71, 29.62, 3.28);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (64, 6039.66, 'Column(6)', 'http://dummyimage.com/161x100.png/5fa2dd/ffffff', 'Brass', 92.55, 21.46, 8.63);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (67, 9487.88, 'Plinth(6)', 'http://dummyimage.com/103x100.png/5fa2dd/ffffff', 'Bronze', 99.14, 22.21, 10.79);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (68, 6810.54, 'Column(7)', 'http://dummyimage.com/198x100.png/5fa2dd/ffffff', 'Bronze', 93.95, 23.96, 31.82);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (69, 10651.67, 'Plinth(7)', 'http://dummyimage.com/189x100.png/ff4444/ffffff', 'Stone', 75.34, 22.06, 23.11);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (70, 10343.43, 'Plinth(8)', 'http://dummyimage.com/102x100.png/5fa2dd/ffffff', 'Bronze', 76.07, 23.25, 31.87);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (71, 13875.12, 'Plinth(9)', 'http://dummyimage.com/222x100.png/dddddd/000000', 'Granite', 77.26, 26.88, 16.25);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (72, 8398.58, 'Column(8)', 'http://dummyimage.com/146x100.png/5fa2dd/ffffff', 'Stone', 76.77, 23.27, 23.05);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (73, 6953.29, 'Column(9)', 'http://dummyimage.com/240x100.png/dddddd/000000', 'Granite', 84.76, 25.85, 37.06);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (74, 8411.61, 'Column(10)', 'http://dummyimage.com/114x100.png/dddddd/000000', 'Bronze', 89.93, 24.1, 23.06);
-insert into data.description (id, price, name, image , material, width, weigth, height) values (75, 4217.26, 'Column(11)',
+
+
+insert into data.description (id, price, name, image , material, width, weight, height) values (35, 10948.3, 'Pedestal(5)', 'http://dummyimage.com/242x100.png/cc0000/ffffff', 'Granite', 58.43, 28.85, 3.15);
+insert into data.description (id, price, name, image , material, width, weight, height) values (36, 6182.32, 'Plinth(1)', 'http://dummyimage.com/184x100.png/ff4444/ffffff', 'Granite', 97.11, 21.07, 10.86);
+insert into data.description (id, price, name, image , material, width, weight, height) values (37, 3317.74, 'Column(1)', 'http://dummyimage.com/103x100.png/cc0000/ffffff', 'Granite', 55.8, 29.44, 10.79);
+insert into data.description (id, price, name, image , material, width, weight, height) values (38, 7125.34, 'Column(2)', 'http://dummyimage.com/246x100.png/ff4444/ffffff', 'Granite', 67.87, 20.81, 25.95);
+insert into data.description (id, price, name, image , material, width, weight, height) values (39, 14477.28, 'Pedestal(6)', 'http://dummyimage.com/172x100.png/cc0000/ffffff', 'Granite', 93.0, 29.84, 29.37);
+insert into data.description (id, price, name, image , material, width, weight, height) values (40, 6918.96, 'Plinth(2)', 'http://dummyimage.com/194x100.png/ff4444/ffffff', 'Granite', 63.15, 27.61, 13.41);
+insert into data.description (id, price, name, image , material, width, weight, height) values (41, 14362.95, 'Column(3)', 'http://dummyimage.com/168x100.png/cc0000/ffffff', 'Granite', 69.22, 25.83, 10.82);
+insert into data.description (id, price, name, image , material, width, weight, height) values (42, 12960.67, 'Pedestal(7)', 'http://dummyimage.com/206x100.png/cc0000/ffffff', 'Granite', 76.73, 22.53, 18.43);
+insert into data.description (id, price, name, image , material, width, weight, height) values (43, 2899.06, 'Column(4)', 'http://dummyimage.com/129x100.png/ff4444/ffffff', 'Granite', 78.04, 24.14, 34.11);
+insert into data.description (id, price, name, image , material, width, weight, height) values (44, 8339.49, 'Pedestal(8)', 'http://dummyimage.com/109x100.png/5fa2dd/ffffff', 'Granite', 67.42, 20.86, 22.08);
+insert into data.description (id, price, name, image , material, width, weight, height) values (45, 10482.2, 'Column(5)', 'http://dummyimage.com/131x100.png/5fa2dd/ffffff', 'Onyx', 64.87, 28.92, 18.21);
+insert into data.description (id, price, name, image , material, width, weight, height) values (46, 7213.32, 'Plinth(3)', 'http://dummyimage.com/201x100.png/cc0000/ffffff', 'Onyx', 80.36, 27.11, 18.17);
+insert into data.description (id, price, name, image , material, width, weight, height) values (47, 7618.18, 'Plinth(4)', 'http://dummyimage.com/132x100.png/cc0000/ffffff', 'Onyx', 54.52, 27.26, 30.59);
+insert into data.description (id, price, name, image , material, width, weight, height) values (48, 14907.13, 'Pedestal(9)', 'http://dummyimage.com/151x100.png/dddddd/000000', 'Onyx', 50.93, 23.99, 9.62);
+insert into data.description (id, price, name, image , material, width, weight, height) values (49, 15846.44, 'Pedestal(10)', 'http://dummyimage.com/172x100.png/5fa2dd/ffffff', 'Onyx', 60.07, 22.0, 32.19);
+insert into data.description (id, price, name, image , material, width, weight, height) values (50, 2746.49, 'Pedestal(11)', 'http://dummyimage.com/190x100.png/cc0000/ffffff', 'Granite', 91.0, 23.6, 5.41);
+insert into data.description (id, price, name, image , material, width, weight, height) values (60, 15938.48, 'Pedestal(12)', 'http://dummyimage.com/109x100.png/dddddd/000000', 'Aluminum', 82.11, 21.82, 26.26);
+insert into data.description (id, price, name, image , material, width, weight, height) values (61, 12236.88, 'Pedestal(13)', 'http://dummyimage.com/214x100.png/ff4444/ffffff', 'Stone', 55.88, 25.43, 25.11);
+insert into data.description (id, price, name, image , material, width, weight, height) values (62, 18384.87, 'Pedestal(14)', 'http://dummyimage.com/166x100.png/cc0000/ffffff', 'Onyx', 58.23, 27.42, 12.13);
+insert into data.description (id, price, name, image , material, width, weight, height) values (63, 9948.67, 'Plinth(5)', 'http://dummyimage.com/241x100.png/cc0000/ffffff', 'Bronze', 73.71, 29.62, 3.28);
+insert into data.description (id, price, name, image , material, width, weight, height) values (64, 6039.66, 'Column(6)', 'http://dummyimage.com/161x100.png/5fa2dd/ffffff', 'Brass', 92.55, 21.46, 8.63);
+insert into data.description (id, price, name, image , material, width, weight, height) values (67, 9487.88, 'Plinth(6)', 'http://dummyimage.com/103x100.png/5fa2dd/ffffff', 'Bronze', 99.14, 22.21, 10.79);
+insert into data.description (id, price, name, image , material, width, weight, height) values (68, 6810.54, 'Column(7)', 'http://dummyimage.com/198x100.png/5fa2dd/ffffff', 'Bronze', 93.95, 23.96, 31.82);
+insert into data.description (id, price, name, image , material, width, weight, height) values (69, 10651.67, 'Plinth(7)', 'http://dummyimage.com/189x100.png/ff4444/ffffff', 'Stone', 75.34, 22.06, 23.11);
+insert into data.description (id, price, name, image , material, width, weight, height) values (70, 10343.43, 'Plinth(8)', 'http://dummyimage.com/102x100.png/5fa2dd/ffffff', 'Bronze', 76.07, 23.25, 31.87);
+insert into data.description (id, price, name, image , material, width, weight, height) values (71, 13875.12, 'Plinth(9)', 'http://dummyimage.com/222x100.png/dddddd/000000', 'Granite', 77.26, 26.88, 16.25);
+insert into data.description (id, price, name, image , material, width, weight, height) values (72, 8398.58, 'Column(8)', 'http://dummyimage.com/146x100.png/5fa2dd/ffffff', 'Stone', 76.77, 23.27, 23.05);
+insert into data.description (id, price, name, image , material, width, weight, height) values (73, 6953.29, 'Column(9)', 'http://dummyimage.com/240x100.png/dddddd/000000', 'Granite', 84.76, 25.85, 37.06);
+insert into data.description (id, price, name, image , material, width, weight, height) values (74, 8411.61, 'Column(10)', 'http://dummyimage.com/114x100.png/dddddd/000000', 'Bronze', 89.93, 24.1, 23.06);
+insert into data.description (id, price, name, image , material, width, weight, height) values (75, 4217.26, 'Column(11)',
 'http://dummyimage.com/220x100.png/dddddd/000000', 'Bronze', 87.77, 28.7, 7.66);
 
 insert into data.extra_article (id, description_id) values (1,31);
